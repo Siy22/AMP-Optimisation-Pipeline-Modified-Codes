@@ -14,8 +14,8 @@ This repository stores code modifications made to run the pipeline on **Apple Si
 
 | Folder / File | Description |
 |---|---|
-| `modified_evoGradient/` | Modified version of EvoGradient (adapted for MPS) |
-| `modified_pyAMPA/` | Modified PyAMPA scripts for project compatibility |
+| `modified_EvoGradient/` | Modified version of EvoGradient (adapted for MPS) |
+| `modified_PyAMPA/` | Modified PyAMPA scripts for project compatibility |
 
 
 ## 🔧 Modifications Made

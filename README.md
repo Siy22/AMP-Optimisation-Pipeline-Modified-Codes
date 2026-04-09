@@ -4,13 +4,11 @@
 
 This repository contains all modified and custom code developed as part of my Final Year Project, focused on the computational screening, mutation, optimisation, and validation of antimicrobial peptides (AMPs).
 
----
 
 ## 📌 Project Overview
 
 This repository stores code modifications made to run the pipeline on **Apple Silicon (M1 MacBook Air)** using VS Code. The pipeline integrates several open-source tools for AMP screening, mutation, optimisation, and validation.
 
----
 
 ## 📁 Repository Contents
 
@@ -19,7 +17,6 @@ This repository stores code modifications made to run the pipeline on **Apple Si
 | `modified_evoGradient/` | Modified version of EvoGradient (adapted for MPS) |
 | `modified_pyAMPA/` | Modified PyAMPA scripts for project compatibility |
 
----
 
 ## 🔧 Modifications Made
 
@@ -27,7 +24,6 @@ This repository stores code modifications made to run the pipeline on **Apple Si
 - Resolved **PyTorch version conflicts**
 - Modified **file input/output handling** in PyAMPA
 
----
 
 ## 📦 Original Tools & Licenses
 
@@ -40,7 +36,6 @@ This project uses modified versions of the following open-source tools:
 
 > All original copyright and license notices have been retained in their respective files. Modifications were made solely for **research and compatibility purposes**.
 
----
 
 ## 📄 License
 
@@ -48,7 +43,6 @@ This repository is released under the **MIT License**.
 
 However, the **original tools retain their respective licenses**. Please refer to the original repositories for full licensing details.
 
----
 
 ## 🚀 How to Use
 

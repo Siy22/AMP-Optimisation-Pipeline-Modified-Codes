@@ -1,6 +1,6 @@
 # AMP Optimisation Pipeline — Modified Code
 
-> **Final Year Project:** *In Silico* AMP Optimisation and Discovery Pipeline
+> **Research Project:** *In Silico* AMP Optimisation and Discovery Pipeline
 
 This repository contains all modified and custom code developed as part of a Research Project, focused on the computational screening, mutation, optimisation, and validation of antimicrobial peptides (AMPs).
 

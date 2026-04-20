@@ -2,12 +2,12 @@
 
 > **Final Year Project:** *In Silico* AMP Optimisation and Discovery Pipeline
 
-This repository contains all modified and custom code developed as part of my Final Year Project, focused on the computational screening, mutation, optimisation, and validation of antimicrobial peptides (AMPs).
+This repository contains all modified and custom code developed as part of a Research Project, focused on the computational screening, mutation, optimisation, and validation of antimicrobial peptides (AMPs).
 
 
 ## 📌 Project Overview
 
-This repository stores code modifications made to run the pipeline on **Apple Silicon (M1 MacBook Air)** using VS Code. The pipeline integrates several open-source tools for AMP screening, mutation, optimisation, and validation.
+This repository stores code modifications made to run the pipeline on **Apple Silicon (M1 MacBook Air)** using VS Code. The pipeline integrates several open-source tools for AMP screening, classification, mutation, optimisation,generating and validation.
 
 
 ## 📁 Repository Contents

@@ -7,7 +7,7 @@ This repository contains all modified and custom code developed as part of a Res
 
 ## 📌 Project Overview
 
-This repository stores code modifications made to run the pipeline on **Apple Silicon (M1 MacBook Air)** using VS Code. The pipeline integrates several open-source tools for AMP screening, classification, mutation, optimisation,generating and validation.
+This repository stores code modifications made to run the pipeline on **Apple Silicon (M1 MacBook Air)** using VS Code. The pipeline integrates several open-source tools for AMP screening, classification, optimisation, mutation,generating and validation.
 
 
 ## 📁 Repository Contents

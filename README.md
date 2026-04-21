@@ -50,4 +50,4 @@ Detailed installation and usage instructions are available in the **individual f
 
 ---
 
-*Developed as part of a Final Year Project. For questions or clarifications, please open an issue or contact the repository owner.*
+*Developed as part of a Research Project. For questions or clarifications, please open an issue or contact the repository owner.*
